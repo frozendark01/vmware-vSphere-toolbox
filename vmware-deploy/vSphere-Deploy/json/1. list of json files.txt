@@ -1,0 +1,16 @@
+adinfo.json
+autodeployrules.json
+certinfo.json
+clusterinfo.json
+deployments.json
+folders.json
+licenses.json
+oscustomizations.json
+permissions.json
+plugins.json
+roles.json
+services.json
+sites.json
+summary.json
+vdswitches.json
+vlans.json

@@ -1,0 +1,27 @@
+vData.Type: sites
+Properties:
+- Datacenter: ny
+  Octet1: <null>
+  Octet2: 100
+  Octet3: <null>
+  vCenter: vcsa1.acme.com
+  WorkSheet: sites
+- Datacenter: ca
+  Octet1: <null>
+  Octet2: 120
+  Octet3: <null>
+  vCenter: vcsa1.acme.com
+  WorkSheet: sites
+- Datacenter: uk
+  Octet1: <null>
+  Octet2: 130
+  Octet3: <null>
+  vCenter: vcsa2.acme.com
+  WorkSheet: sites
+- Datacenter: nl
+  Octet1: <null>
+  Octet2: 140
+  Octet3: <null>
+  vCenter: vcsa2.acme.com
+  WorkSheet: sites
+

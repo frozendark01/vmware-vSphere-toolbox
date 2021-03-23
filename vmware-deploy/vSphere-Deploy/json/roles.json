@@ -1,0 +1,719 @@
+{
+  "vData.Type": "roles",
+  "Properties": [
+    {
+      "Name": "Reporting",
+      "Privilege": "Global.Licenses",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Reporting",
+      "Privilege": "System.Anonymous",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Reporting",
+      "Privilege": "System.Read",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Reporting",
+      "Privilege": "System.View",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "Datastore.Browse",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "Global.CancelTask",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "Resource.ApplyRecommendation",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "Resource.AssignVAppToPool",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "Resource.AssignVMToPool",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "Resource.ColdMigrate",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "Resource.HotMigrate",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "Resource.QueryVMotion",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "System.Anonymous",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "System.Read",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "System.View",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "VirtualMachine.Config.CPUCount",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "VirtualMachine.Config.Memory",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "VirtualMachine.Interact.AnswerQuestion",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "VirtualMachine.Interact.ConsoleInteract",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "VirtualMachine.Interact.PowerOff",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "VirtualMachine.Interact.PowerOn",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "VirtualMachine.Interact.Reset",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "VirtualMachine.Interact.SetCDMedia",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "NetOps",
+      "Privilege": "VirtualMachine.Interact.ToolsInstall",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Datastore.AllocateSpace",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Datastore.Browse",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Datastore.FileManagement",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Global.CancelTask",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Global.SetCustomField",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Network.Assign",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Performance.ModifyIntervals",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Resource.ApplyRecommendation",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Resource.AssignVMToPool",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Resource.ColdMigrate",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Resource.HotMigrate",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Resource.QueryVMotion",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "ScheduledTask.Create",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "ScheduledTask.Delete",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "ScheduledTask.Edit",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "ScheduledTask.Run",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "System.Anonymous",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "System.Read",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "System.View",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Task.Create",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "Task.Update",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VApp.AssignResourcePool",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VApp.AssignVApp",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VApp.AssignVM",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VApp.Import",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.AddExistingDisk",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.AddNewDisk",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.AddRemoveDevice",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.AdvancedConfig",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.Annotation",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.CPUCount",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.DiskExtend",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.DiskLease",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.EditDevice",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.HostUSBDevice",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.Memory",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.RawDevice",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.RemoveDisk",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.Rename",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.ResetGuestInfo",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.Resource",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.Settings",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.SwapPlacement",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Config.UpgradeVirtualHardware",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Interact.AnswerQuestion",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Interact.ConsoleInteract",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Interact.DefragmentAllDisks",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Interact.DeviceConnection",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Interact.PowerOff",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Interact.PowerOn",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Interact.Reset",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Interact.SetCDMedia",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Interact.SetFloppyMedia",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Interact.Suspend",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Interact.ToolsInstall",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Inventory.Create",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Inventory.CreateFromExisting",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Inventory.Delete",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Inventory.Move",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Inventory.Register",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Inventory.Unregister",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.Clone",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.CloneTemplate",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.CreateTemplateFromVM",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.Customize",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.DeployTemplate",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.DiskRandomAccess",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.DiskRandomRead",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.GetVmFiles",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.MarkAsTemplate",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.MarkAsVM",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.ModifyCustSpecs",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.PromoteDisks",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.PutVmFiles",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.Provisioning.ReadCustSpecs",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.State.CreateSnapshot",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.State.RemoveSnapshot",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.State.RenameSnapshot",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "IT Staff",
+      "Privilege": "VirtualMachine.State.RevertToSnapshot",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Datacenter Managenent",
+      "Privilege": "System.Anonymous",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Datacenter Managenent",
+      "Privilege": "System.Read",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Datacenter Managenent",
+      "Privilege": "System.View",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Datacenter Managenent",
+      "Privilege": "VirtualMachine.Interact.AnswerQuestion",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Datacenter Managenent",
+      "Privilege": "VirtualMachine.Interact.ConsoleInteract",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Datacenter Managenent",
+      "Privilege": "VirtualMachine.Interact.PowerOff",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Datacenter Managenent",
+      "Privilege": "VirtualMachine.Interact.PowerOn",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Datacenter Managenent",
+      "Privilege": "VirtualMachine.Interact.Reset",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Datacenter Managenent",
+      "Privilege": "VirtualMachine.Interact.SetCDMedia",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Datacenter Managenent",
+      "Privilege": "VirtualMachine.Interact.ToolsInstall",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Helpdesk - Read Only",
+      "Privilege": "System.Anonymous",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Helpdesk - Read Only",
+      "Privilege": "System.Read",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Helpdesk - Read Only",
+      "Privilege": "System.View",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Helpdesk - Read Only",
+      "Privilege": "VirtualMachine.Interact.ConsoleInteract",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Helpdesk - Read Only",
+      "Privilege": "VirtualMachine.Interact.PowerOff",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    },
+    {
+      "Name": "Helpdesk - Read Only",
+      "Privilege": "VirtualMachine.Interact.PowerOn",
+      "vCenter": "all",
+      "WorkSheet": "roles"
+    }
+  ]
+}
